@@ -7,9 +7,9 @@ Discaimer:
 The data is random based and is purely for the purposes of my coursework, demonstarting my level of expertise in data analysis. This is my first project. 
 
 # Research Problem
-The data set can be found using this link.... It contains the necessary information, including the county, prevalence acccording to gender, nature of cancer, anf total. I have used the Kenyan population dataset..... as part pof my analysis. In order to conclusively analyze and draw insights from the data, we will follow these steps:
+The data set can be found in thne attached files. It contains the necessary information, including the county, prevalence acccording to gender, nature of cancer, anf total. I have used the Kenyan population dataset as part of my analysis. In order to conclusively analyze and draw insights from the data, we will follow these steps:
 
-    -Define the question, the metrics for success, the contextand appropriateness of the data.
+    -Define the question, the metrics for success, the context and appropriateness of the data.
     -Find and deal with outliers, anomalies and missing data
     -Create visualizations that help with interpretation of analysed data
     -Draw conclusions from various data findings
@@ -18,3 +18,4 @@ The data set can be found using this link.... It contains the necessary informat
     -Google Colab
     -Git/ Github
     
+[CANCER DATA KENYA (1).csv](https://github.com/WinzyOsolo/Cancer-Diagnosis-Analysis-in-Kenya-from-the-year2001/files/14321815/CANCER.DATA.KENYA.1.csv)
