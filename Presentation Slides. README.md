@@ -1,3 +1,4 @@
+# Cancer Diagnosis Analysis in Kenya from the year 2001
 # Overview and Business Understanding
 The objective of this data science project is to analyze and derive inights on the diagnosis and prevalence of Cancer in Kenya from the year 2001. The project aims to create value to various stakeholders within the healthcare industry, medical researchers, the Kenyan government and the World Health Organisation. This research is important because the the better we understand this disease, the more progress we will make as a country in diminishing the tremendous human and economic tolls of cancer. 
 The purpose is to: -Develop safe and effective methods to prevent, detect and diagnose, treat and ultimately, cure the collection of disesaes we call cancer in Kenya that is causing more and more deaths.
