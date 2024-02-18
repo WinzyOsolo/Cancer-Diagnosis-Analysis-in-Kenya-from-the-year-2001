@@ -26,7 +26,7 @@ Specifying the Data Analysis Question
 The dataset includes various types of cancers, ranging from breast and lung to cervix, non-Hodgkin lymphoma, and prostate. Breast cancer has the highest number of cases, followed by Oesophagus, Melanoma, Lung, and Ovary. This suggests that breast cancer is the most prevalent type among the given dataset.
 Overall, this data highlights the significance of understanding cancer prevalence to develop targeted prevention strategies, improve healthcare services, and enhance public health interventions to combat cancer effectively.
 
-- Regional Analusis of the top five most prevanet cancers
+- Regional Analysis of the top five most prevanet cancers
 
 Each type of cancer has varying distributions across different regions. For example, Breast cancer has the highest incidence in Nairobi and Central regions, while Melanoma is more prevalent in Nairobi and Rift Valley. This suggests that the distribution of cancer cases may be influenced by factors such as population demographics, healthcare access, environmental conditions, and lifestyle factors prevalent in each region.
 
