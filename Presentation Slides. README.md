@@ -31,7 +31,7 @@ Overall, this data highlights the significance of understanding cancer prevalenc
 Each type of cancer has varying distributions across different regions. For example, Breast cancer has the highest incidence in Nairobi and Central regions, while Melanoma is more prevalent in Nairobi and Rift Valley. This suggests that the distribution of cancer cases may be influenced by factors such as population demographics, healthcare access, environmental conditions, and lifestyle factors prevalent in each region.
 
 - Top five types of cancers affecting men
-- ![alt text]()
+- ![alt text](https://github.com/WinzyOsolo/Cancer-Diagnosis-Analysis-in-Kenya-from-the-year2001/blob/main/Top%205%20cancers%20Male.png)
 
 The data indicates that certain types of cancer have a higher incidence among males compared to females. For example, Lung cancer has the highest incidence among males, followed by Oesophagus, Melanoma, Prostate, and Anal cancers. Understanding the prevalence of these male-specific cancers is crucial for developing targeted prevention and intervention strategies.
 
