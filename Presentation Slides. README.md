@@ -2,10 +2,10 @@
 The objective of this data science project is to analyze and derive inights on the diagnosis and prevalence of Cancer in Kenya from the year 2001. The project aims to create value to various stakeholders within the healthcare industry, medical researchers, the Kenyan government and the World Health Organisation. This research is important because the the better we understand this disease, the more progress we will make as a country in diminishing the tremendous human and economic tolls of cancer. 
 The purpose is to: -Develop safe and effective methods to prevent, detect and diagnose, treat and ultimately, cure the collection of disesaes we call cancer in Kenya that is causing more and more deaths.
 
-#Data Source and Suitability
+# Data Source and Suitability
 The data set can be found from the National Bureau of Statistics. It contains the necessary information, including the varios regions, prevalence according to gender, nature of cancer, anf total. I have used the Kenyan population dataset as part of my analysis. In order to conclusively analyze and draw insights from the data, I followed these steps:
 
-#Major Beneficiaries of the Findings
+# Major Beneficiaries of the Findings
 - Healthcare sector, to provide appropriate healrhcare solutions
 - Researchers and Scientists espectally Cancer Researchers who can create more targeted solutions to the cancer problem inKenya
 - The Government to create strategies that fit the problem
