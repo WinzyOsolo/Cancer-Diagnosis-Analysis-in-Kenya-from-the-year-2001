@@ -36,7 +36,7 @@ Each type of cancer has varying distributions across different regions. For exam
 The data indicates that certain types of cancer have a higher incidence among males compared to females. For example, Lung cancer has the highest incidence among males, followed by Oesophagus, Melanoma, Prostate, and Anal cancers. Understanding the prevalence of these male-specific cancers is crucial for developing targeted prevention and intervention strategies.
 
 - Top five types of cancers affecting women
-
+![alt text](https://github.com/WinzyOsolo/Cancer-Diagnosis-Analysis-in-Kenya-from-the-year2001/blob/main/Top%205%20cancers%20Female.png)
 The data indicates that certain types of cancer have a higher incidence among females compared to males. For example, Breast cancer has the highest incidence among females, followed by Melanoma, Oesophagus, Ovary, and Cervical cancer. This suggests the importance of gender-specific approaches in cancer prevention, screening, and treatment.
 
 Which type of cancer causes most deaths
