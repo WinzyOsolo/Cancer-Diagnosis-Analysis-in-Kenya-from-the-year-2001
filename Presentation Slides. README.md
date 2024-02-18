@@ -40,8 +40,7 @@ The data indicates that certain types of cancer have a higher incidence among ma
 The data indicates that certain types of cancer have a higher incidence among females compared to males. For example, Breast cancer has the highest incidence among females, followed by Melanoma, Oesophagus, Ovary, and Cervical cancer. This suggests the importance of gender-specific approaches in cancer prevention, screening, and treatment.
 
 Which type of cancer causes most deaths
-
-
+![alt text](https://github.com/WinzyOsolo/Cancer-Diagnosis-Analysis-in-Kenya-from-the-year2001/blob/main/Top%2010%20prevalent%20cancers.png)
 The data on cancer-related deaths provides valuable insights into the burden of different types of cancer on mortality rates and underscores the importance of multifaceted strategies for cancer prevention, early detection, and treatment to reduce the impact of cancer on public health.
 
 # Conclusion and Recommendations
